@@ -7,4 +7,4 @@ Cleaning and inital exploration of customer churn data from a mobile-network car
 
 ![alt text](https://github.com/crotty-d/customer-churn-explore/hansdSetAgeBox.png)
 
-![alt text](https://github.com/crotty-d/customer-churn-explore/booleanCor.png)
+![alt text](https://github.com/crotty-d/customer-churn-explore/blob/master/booleanCor.png)

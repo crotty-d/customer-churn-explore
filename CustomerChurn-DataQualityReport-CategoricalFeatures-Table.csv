@@ -1,0 +1,12 @@
+Feature,count,% missing,cardinality,mode,mode-freq,mode %
+customer,1000,0.0,1000,1099911,1,0.1
+occupation,233,76.7,6,professional,148,14.8
+regionType,492,50.8,3,suburban,308,30.8
+marriageStatus,593,40.699999999999996,2,True,343,34.3
+children,1000,0.0,2,False,753,75.3
+income,716.0,28.4,9.0,6.0,206.0,20.6
+smartPhone,1000,0.0,2,True,904,90.4
+creditRating,1000,0.0,7,B,392,39.2
+homeOwner,1000,0.0,2,False,632,63.2
+creditCard,1000,0.0,2,True,654,65.4
+churn,1000,0.0,2,False,514,51.4
